@@ -1,0 +1,6 @@
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\bin\tr_checkout.dll
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\bin\tr_checkout.pdb
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\bin\Braintree-1.1.2.dll
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\obj\Debug\tr_checkout.dll
+C:\Users\pair\braintree-dotnet-examples\tr_checkout\obj\Debug\tr_checkout.pdb
