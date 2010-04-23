@@ -1,8 +1,0 @@
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\bin\BraintreeExamples.dll
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\bin\BraintreeExamples.pdb
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\obj\Debug\BraintreeExamples.dll
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\obj\Debug\BraintreeExamples.pdb
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\bin\Braintree-1.1.1.dll
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\bin\Braintree-1.1.1.pdb
-C:\Users\pair\braintree-dotnet-mvc-examples\BraintreeExamples\BraintreeExamples\bin\Braintree-1.1.1.xml
