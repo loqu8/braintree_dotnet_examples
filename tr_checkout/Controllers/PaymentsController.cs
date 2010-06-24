@@ -31,7 +31,7 @@ namespace BraintreeExamples.Controllers
             ViewData["Amount"] = AMOUNT;
 
             // used as the action on the form, and a key component of transparent redirect
-            ViewData["TransparentRedirectURLForCreate"] = gateway.Transaction.TransparentRedirectURLForCreate();
+            ViewData["TransparentRedirectURLForCreate"] = gateway.TransparentRedirect.Url;
 
             // another key component of transparent redirect, submitted along with the form to the gateway, and serves
             // as a signature for the request, as well as specifying the redirect destination. Depending on the request
@@ -48,7 +48,7 @@ namespace BraintreeExamples.Controllers
             // in the New action
             
             // confirm the transaction we just posted via transparent redirect and receive the results of the transaction request
-            Result<Transaction> result = gateway.Transaction.ConfirmTransparentRedirect(Request.Url.Query);
+            Result<Transaction> result = gateway.TransparentRedirect.ConfirmTransaction(Request.Url.Query);
 
             if (result.IsSuccess())
             {
